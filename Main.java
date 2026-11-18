@@ -17,7 +17,7 @@ class Order{
     String orderId;
 }
 
-// class Customer{}
+class Customer{}
 
 enum DriverStatus{
     AVAILABLE,
