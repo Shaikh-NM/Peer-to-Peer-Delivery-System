@@ -23,7 +23,7 @@ enum DriverStatus{
     AVAILABLE,
     BUSY:<orderId>,
 }
-// class Driver{}
+class Driver{}
 
 // no need to create driver-service, customer-service
 class OrderService{
